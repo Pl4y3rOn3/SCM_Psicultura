@@ -6,11 +6,12 @@ Ideias que inspiram o projeto (sites, blogs, sistemas, fontes de dados): (*****F
  * https://www.apple.com/br/app-store/
  * https://gtagenda2030.org.br/ods/ (17 Objetivos de Desenvolvimento Sustentável - ODS)
 
-## Integrantes do grupo (*****INCOMPLETO****)
+## Integrantes do grupo (*****COMPLETO****)
  * Henrique Pablo Pinheiro dos Santos Pimentel - henrique___pablo@hotmail.com
  * Bruno Cavalcanti de Mendonça - lekinn.c.mend@gmail.com
- * Maria das Graças Nascimento - maria@abc.com
- * João da Fonseca - joao@abc.com
+ * Ruallyson Felype Travassos de Moura - ruallysonfelype@gmail.com
+ * Thomas Jefferson do Nascimento Ferreira -  thomasj.nascimento@gmail.com
+ * Maiara Santos de Souza - maiarasouzaz.lc@gmail.com
 
 ## Descrição geral do projeto (*****FALTA FAZER****)
 Nesta descrição, apresente um texto resumido com a(s) principal(is) funcionalidade(s) do sistema. 
